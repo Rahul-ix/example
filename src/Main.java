@@ -10,6 +10,15 @@ public class Main {
                 new Employee(2,"Raj","QA",30000),
                 new Employee(3,"Abhira","IT",50000),
                 new Employee(4,"Ruhi","Prod",80000),
+             new Employee(1,"Rahul","IT",70000),
+                new Employee(2,"Raj","QA",30000),
+                new Employee(3,"Abhira","IT",50000),
+                new Employee(4,"Ruhi","Prod",80000),
+                new Employee(5,"Divya","IT",60000) new Employee(1,"Rahul","IT",70000),
+                new Employee(2,"Raj","QA",30000),
+                new Employee(3,"Abhira","IT",50000),
+                new Employee(4,"Ruhi","Prod",80000),
+                new Employee(5,"Divya","IT",60000)
                 new Employee(5,"Divya","IT",60000)
 
         );
