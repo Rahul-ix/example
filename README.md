@@ -1,5 +1,10 @@
 kdkdj
 dmdlmd
-dkdd
+dkddw,w
+ww,wm
+wwk,m
 dkdldkdlkdddddddddddddd
 ddlkdld
+wokwow
+wmwwmw
+wmwkw
